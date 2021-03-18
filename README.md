@@ -1,7 +1,7 @@
-<p align="center"><img src="assets/img/easyauto-logo.jpg"></p>
+<p align="center"><img src="assets/img/easyauto-logo.jpg" height="200px"></p>
 
 <p align="center">
-    <a href="#"><img src="assets/img/version.png" height="200px"></a>
+    <a href="#"><img src="assets/img/version.png"></a>
 </p>
 
 ## Sobre o EasyAuto
@@ -27,6 +27,6 @@ Easy.Auto é um site que conecta clientes de oficinas mecânicas e lojas de vend
 - [Pesquisa para validação da dor](assets/documents/formulario-validacao-dor.docx)
 - [MVP Versão 1.0](assets/documents/mvp-v1.PPTX)
 - [Quadrante comparativo concorrentes](assets/documents/quadrante-comparativo-concorrentes.pptx)
-- [Apresentação do Projeto Versão 2.0](assets/documents/apresentacao-projeto-easyauto-v2.0.pptx)
+- [Apresentação do Projeto Versão 2.0](assets/documents/apresentacao-projeto-easyauto-v2.0,pptx)
 - [Requisitos EasyAuto](assets/documents/requisitos-easyauto.pdf)
 - [Trello](https://trello.com/invite/b/c0Ok7DlD/7607e52576b22ae13db58579e328aa38/projeto-integrador-2)
