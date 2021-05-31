@@ -36,5 +36,5 @@ Easy.Auto é um site que conecta clientes de oficinas mecânicas e lojas de vend
 - [Tarefa 2 - Diagramas UML - Caso de Uso e Atividade](assets/tarefa02/)
 - [Tarefa 3 - Diagramas UML - Diagrama de Classe e Objeto](assets/tarefa03/)
 - [Tarefa 4 - Banco de Dados](assets/tarefa04/)
-- [Tarefa 5 - Implementaç Orientaç a Objeto](assets/tarefa05/)
-- [Tarefa 6 - Testes Unitáos](assets/tarefa06/)
+- [Tarefa 5 - Implementação Orientação a Objeto](assets/tarefa05/)
+- [Tarefa 6 - Testes Unitários](assets/tarefa06/)
