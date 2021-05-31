@@ -30,3 +30,11 @@ Easy.Auto é um site que conecta clientes de oficinas mecânicas e lojas de vend
 - [Apresentação do Projeto Versão 2.0](assets/documents/apresentacao-projeto-easyauto-v2.0,pptx)
 - [Requisitos EasyAuto](assets/documents/requisitos-easyauto.pdf)
 - [Trello](https://trello.com/invite/b/c0Ok7DlD/7607e52576b22ae13db58579e328aa38/projeto-integrador-2)
+
+## Tarefas
+
+- [Tarefa 2 - Diagramas UML - Caso de Uso e Atividade](assets/tarefa02/)
+- [Tarefa 3 - Diagramas UML - Diagrama de Classe e Objeto](assets/tarefa03/)
+- [Tarefa 4 - Banco de Dados](assets/tarefa04/)
+- [Tarefa 5 - Implementaç Orientaç a Objeto](assets/tarefa05/)
+- [Tarefa 6 - Testes Unitáos](assets/tarefa06/)
