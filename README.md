@@ -17,8 +17,7 @@ Easy.Auto é um site que conecta clientes de oficinas mecânicas e lojas de vend
 - Alexandre Batista Amormino
 - Ana Paula Scalabrini
 - Gustavo Alberto Amabile Alves
-- Hamilton da Silva Junior
-- Ramon Diniz Tocafundo
+- Guilherme Basilio da Silva
 
 ## Documentos
 
