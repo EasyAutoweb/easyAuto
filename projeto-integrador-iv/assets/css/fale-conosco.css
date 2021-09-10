@@ -1,0 +1,52 @@
+/* Todas as media queries */
+/* End Todas as media queries */
+
+/* Celulares ate 240px */
+@media screen and (max-width: 240px) {
+    
+}
+/* End Celulares ate 240px */
+
+
+/* Celulares ate 480px */
+@media screen and (max-width: 480px) {
+
+}
+/* End Celulares ate 480px */
+
+/* Tablet em pe */
+@media screen and (min-width: 481px) and (max-width: 767px) {
+
+}
+/* End Tablet em pe */
+
+
+/* Tablet deitado */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+/* End Tablet em deitado */
+
+/* Notebook */
+@media screen and (min-width: 992px) and (max-width: 1280px) {
+
+}
+/* End Notebook */
+
+/* Computadores */
+@media screen and (min-width: 1281px) {
+
+}
+/* End Computadores */
+
+/* Computadores M */
+@media screen and (min-width: 1345px) and (max-width: 1632px) {
+
+}
+/* End Computadores */
+
+/* Computadores G */
+@media screen and (min-width: 1633px) {
+
+}
+/* End Computadores G */

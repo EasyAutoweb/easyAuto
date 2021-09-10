@@ -1,0 +1,127 @@
+/* Todas as media queries */
+.banner_home{
+    background: url('/assets/img/banner_home.webp') 50% 0 repeat fixed;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+.banner_home:before {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: " ";
+    position: absolute;
+    background: rgb(0 0 0 / 70%);
+}
+.texto_banner{
+    font-size: 32px;
+    color: #FFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.wrap_cupons_destaque{
+    padding: 40px 0px 60px;
+}
+.box_item_cupom{
+    width: 100%;
+    float: left;
+    border: 1px solid #f3f3f3;
+    border-radius: 4px;
+    padding: 20px;
+}
+.box_item_cupom_img{
+    float: initial;
+    display: table;
+    margin: 0px auto 20px;
+}
+.box_item_cupom_img img{
+    max-width: 100%;
+}
+.box_item_cupom_titulo{
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    color: #192449;
+    margin-bottom: 10px;
+}
+.box_item_cupom_texto{
+
+}
+.wrap_lojas_conveniadas{
+    padding: 40px 0px 60px;
+    background: #F5F5F5;
+}
+.box_item_loja_conveniada{
+    width: 100%;
+    float: left;
+    border: 1px solid #f3f3f3;
+    border-radius: 4px;
+    padding: 20px;
+}
+.box_item_loja_conveniada_img{
+    float: initial;
+    display: table;
+    margin: 0px auto;
+}
+.box_item_loja_conveniada_img img{
+    max-width: 100%;
+}
+/* End Todas as media queries */
+
+/* Celulares ate 240px */
+@media screen and (max-width: 240px) {
+
+}
+/* End Celulares ate 240px */
+
+
+/* Celulares ate 480px */
+@media screen and (max-width: 480px) {
+
+}
+/* End Celulares ate 480px */
+
+/* Tablet em pe */
+@media screen and (min-width: 481px) and (max-width: 767px) {
+
+}
+/* End Tablet em pe */
+
+
+/* Tablet deitado */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+/* End Tablet em deitado */
+
+/* Notebook */
+@media screen and (min-width: 992px) and (max-width: 1280px) {
+
+}
+/* End Notebook */
+
+/* Computadores */
+@media screen and (min-width: 1281px) {
+
+}
+/* End Computadores */
+
+/* Computadores M */
+@media screen and (min-width: 1345px) and (max-width: 1632px) {
+
+}
+/* End Computadores */
+
+/* Computadores G */
+@media screen and (min-width: 1633px) {
+
+}
+/* End Computadores G */
